@@ -9,12 +9,13 @@ url = "https://pypi.python.org/simple"
 
 scikit-learn = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow = ">=1.4,<1.5"
 pandas = "*"
 numpy = "*"
 scipy = "*"
 "h5py" = "*"
 matplotlib = "*"
+tensorflow-gpu = ">=1.4,<1.5"
 
 
 [dev-packages]
